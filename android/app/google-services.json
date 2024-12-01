@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "617360211631",
+    "project_id": "esoftfirebase-ea401",
+    "storage_bucket": "esoftfirebase-ea401.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617360211631:android:eb7364d4c2edfb94651e5a",
+        "android_client_info": {
+          "package_name": "com.example.esoftfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjqWMjAZFUxt47pxt8XXFPwxw2dHJd1rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
